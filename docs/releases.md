@@ -1,5 +1,5 @@
 ---
-mame: Feature Release
+name: Feature Release
 about: Documentar Releases
 title: "[FEATURE]"
 labels: documentar
